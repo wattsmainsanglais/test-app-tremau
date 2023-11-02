@@ -32,10 +32,10 @@ import Paper from '@mui/material/Paper';
           <TableHead>
             <TableRow>
               <TableCell>Id</TableCell>
-              <TableCell align="right">ReportedUrl</TableCell>
-              <TableCell align="right">ReporterAge</TableCell>
-              <TableCell align="right">ReporterName</TableCell>
-              <TableCell align="right">ReporterEmail</TableCell>
+              <TableCell >ReportedUrl</TableCell>
+              <TableCell >ReporterAge</TableCell>
+              <TableCell >ReporterName</TableCell>
+              <TableCell >ReporterEmail</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
